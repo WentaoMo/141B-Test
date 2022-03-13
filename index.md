@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/WentaoMo/141B-Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## This is Group 5 STA141B Final Project
+Link to our project's video Tutorial(https://github.com/WentaoMo/141B-Test/edit/gh-pages/index.md) to watch an interesting video about our final project
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,15 +10,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# LNP
-## LNP
-### LNP
+# Natural Langauge Processing
+## Natural Langauge Processing
+### Natural Langauge Processing
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Introduction
+2. Overview of the content
 
 **Bold** and _Italic_ and `Code` text
 
