@@ -12,13 +12,8 @@ High lighted area
 Syntax highlighted code block
 
 # Natural Langauge Processing
-# <li><a href="hw5.html">A Test Link</a></li>
 ## Natural Langauge Processing
 ### Natural Langauge Processing
-
-- Bulleted
-- List
-
 1. Introduction
 2. Overview of the content
 
@@ -26,6 +21,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<li><a href="hw5.html">A Test Link</a></li>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
