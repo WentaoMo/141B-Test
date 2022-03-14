@@ -6,14 +6,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-High lighted area
+High lighted area is the Markdown file region:
 
 ```markdown
 Syntax highlighted code block
-
-# Natural Langauge Processing
-## Natural Langauge Processing
-### Natural Langauge Processing
+# Loading constructed dataset: In Progress 1%
+## Loading constructed dataset: In Progress 5%
+### Loading constructed dataset: In Progress 20%
+#### Loading constructed dataset: In Progress 50%
+##### Loading constructed dataset: In Progress 99%
+###### Loading constructed dataset: In Progress 100%
 1. Introduction
 2. Overview of the content
 
