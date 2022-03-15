@@ -2,8 +2,6 @@
 ## Analysis through Disaster Tweets
 Link to our project's video Tutorial(https://github.com/WentaoMo/141B-Test/edit/gh-pages/index.md) to watch an interesting video about our final project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 High lighted area is the Markdown file region:
@@ -16,21 +14,17 @@ Syntax highlighted code block
 #### Loading constructed dataset: In Progress 50%
 ##### Loading constructed dataset: In Progress 99%
 ###### Loading constructed dataset: In Progress 100%
-1. Introduction
-2. Overview of the content
+1. Introduction:
+Twitter has become an important communication tool nowadays.
 
-**Bold** and _Italic_ and `Code` text
+The easy access to smartphones and internet enables people to spread emergency information in real-time. Because of this, more agencies are interested in programatically monitoring Twitter.
 
-[Link](url) and ![Image](src)
+But, it’s not always clear whether a person’s words are actually announcing a disaster. Therefore, in this project, we will be building a machine learning model to predict which Tweets are about real disasters and which one’s aren’t.
+
+The dataset is from kaggle natural language processing challenging(https://www.kaggle.com/c/nlp-getting-started).
+
 ```
 <li><a href="hw5.html">A Test Link</a></li>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WentaoMo/141B-Test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
