@@ -76,7 +76,23 @@ We use our statistical model to predict our outcome:
 <li><a href="reference.html">Part VI: Reference Page</a></li>
 
 # Conclusion:
+```markdown
+# Accessing conclusion: Processing 100%
+The 3 main goals of our final project is to utilize various techniques we learnt in class to conduct the data analysis, data preprocessing, 
+and build a machine learning model to classify if one tweets is reporting a real disaster or not. 
 
+There are several interesting findings within our project.
+First of all, we find that no matter the tweet is reporting a real disaster or not, it is more likely to mark the position when it is sent in the U.S. 
+In other words, the American users prefer to mark their location when sending a tweet. 
+
+Also, we find that the distribution of sentence numbers, word numbers, 
+and character numbers within one tweet are pretty similar no matter it is a disaster tweet or a non-disaster tweet. We also find that the word cloud we produced also share high similarities. 
+
+Besides, we notice that when the texts of tweet containing the proper nouns related to a natural disaster or some adjectives containing dangerous information, 
+it is more likely to be classified as a disaster tweet. 
+After all the analysis, we cultivate a logistic regression model to classify the disaster tweets. 
+
+```
 
 # You can also view our tutorial video online!
 See <b>Video Presentation</b> <a href="https://www.youtube.com/watch?v=nHkSAYiRhe8">here</a>
