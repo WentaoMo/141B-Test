@@ -4,7 +4,9 @@ Link to our project's video Tutorial(https://github.com/WentaoMo/141B-Test/edit/
 
 Group Member:
 Wentao Mo: wmo@ucdavis.edu
+
 Yuyan Fan: (yuyfan@ucdavis.edu)
+
 Ruixin Pang: (rxpang@ucdavis.edu)
  
 
@@ -65,11 +67,12 @@ We use our statistical model to predict our outcome:
 (which are diaster tweets, and which are not)
 
 ```
-<li><a href="hw5.html">Part I: Data </a></li>
+<li><a href="hw5.html">Part I: Reading Data </a></li>
 <li><a href="hw5.html">A Test Link</a></li>
 <li><a href="hw5.html">A Test Link</a></li>
 <li><a href="hw5.html">A Test Link</a></li>
 <li><a href="hw5.html">A Test Link</a></li>
 <li><a href="hw5.html">A Test Link</a></li>
 
-
+# Interesting Tour starts here!
+<font size="4"><a href="hw5.html">Next Step: Reading Data </a></font>
