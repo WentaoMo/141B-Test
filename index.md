@@ -73,6 +73,10 @@ We use our statistical model to predict our outcome:
 <li><a href="Part4.html">Part IV: Basic Data Processing</a></li>
 <li><a href="Part5.html">Part V: Data Vectorization</a></li>
 <li><a href="Part6.html">Part VI: Statistical Modeling</a></li>
+<li><a href="reference.html">Part VI: Reference Page</a></li>
+
+# Conclusion:
+
 
 # You can also view our tutorial video online!
 See <b>Video Presentation</b> <a href="https://www.youtube.com/watch?v=nHkSAYiRhe8">here</a>
