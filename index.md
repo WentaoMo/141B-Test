@@ -67,12 +67,12 @@ We use our statistical model to predict our outcome:
 (which are diaster tweets, and which are not)
 
 ```
-<li><a href="hw5.html">Part I: Reading Data </a></li>
-<li><a href="hw5.html">Part II: Data Description</a></li>
-<li><a href="hw5.html">Part III: Data Exploration and Visualization</a></li>
-<li><a href="hw5.html">Part IV: Basic Data Processing</a></li>
-<li><a href="hw5.html">Part V: Data Vectorization</a></li>
-<li><a href="hw5.html">Part VI: Statistical Modeling</a></li>
+<li><a href="Part1.html">Part I: Reading Data </a></li>
+<li><a href="Part2.html">Part II: Data Description</a></li>
+<li><a href="Part3.html">Part III: Data Exploration and Visualization</a></li>
+<li><a href="Part4.html">Part IV: Basic Data Processing</a></li>
+<li><a href="Part5.html">Part V: Data Vectorization</a></li>
+<li><a href="Part6.html">Part VI: Statistical Modeling</a></li>
 
 # You can also view our tutorial video online!
 See <b>Video Presentation</b> <a href="https://www.youtube.com/watch?v=nHkSAYiRhe8">here</a>
